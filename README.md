@@ -1,3 +1,17 @@
-# Blocking Bot IPs for Linux | bottables
-Just another Linux Firewall to Block Annoying BOTs <br>
-This is a temp readme file, please check back later for more information :)
+# Bottables the Linux Firewall to block annoying Bots.
+
+
+# Installation:
+
+Packages which are required to run bottables: 
+
+- wget
+- dos2unix
+- iptables
+
+```
+apt-get install wget dos2unix -y```
+
+```
+wget https://raw.githubusercontent.com/Xenic28/bottables/main/bottables.sh && chmod 777 bottables.sh && ./bottables.sh```
+
