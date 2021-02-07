@@ -89,7 +89,7 @@ then
    echo ""
    sleep 5
    clear
-   rm ipblock.list
+   rm ip6block.list
    rm blockscriptv6.sh
    rm unblockscriptv6.sh
    rm terminalcolorfix.sh
