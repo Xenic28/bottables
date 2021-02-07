@@ -10,8 +10,10 @@ Packages which are required to run bottables:
 - iptables
 
 ```
-apt-get install wget dos2unix -y```
+apt-get install wget dos2unix -y
+```
 
 ```
-wget https://raw.githubusercontent.com/Xenic28/bottables/main/bottables.sh && chmod 777 bottables.sh && ./bottables.sh```
+wget https://raw.githubusercontent.com/Xenic28/bottables/main/bottables.sh && chmod 777 bottables.sh && ./bottables.sh
+```
 
