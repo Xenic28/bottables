@@ -18,7 +18,7 @@ BLUE='\033[0;36m'
 PLAIN='\033[0m'
 
 #Download
-MIRROR='https://raw.githubusercontent.com/Xenic28/bottables/main/'
+MIRROR='https://raw.githubusercontent.com/Xenic28/bottables/main'
 
 #Script
 clear
